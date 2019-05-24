@@ -1,4 +1,5 @@
 rama 1
 commit 1 master
 commit 1 rama2 
+commit 2 rama2 
 
